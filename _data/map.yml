@@ -92,3 +92,8 @@
   coords: [47.65586,-122.30945]
   institution: University of Washington
   type: group
+- name: James Paul Mason
+  url: https://github.com/jmason86
+  coords: [40.0150, -105.2705]
+  institution: University of Colorado Boulder, Laboratory for Atmospheric and Space Physics
+  type: person
